@@ -1,4 +1,5 @@
-class Square: 
+
+   class Square: 
 
     # FIXME
     def __init__(self, side) -> None:
@@ -13,3 +14,6 @@ class Square:
     # FIXME
     def perimeter(self): 
         return self.side * 2
+
+
+
